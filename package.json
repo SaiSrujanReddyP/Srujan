@@ -1,0 +1,25 @@
+{
+  "name": "srujan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiSrujanReddyP/Srujan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiSrujanReddyP/Srujan/issues"
+  },
+  "homepage": "https://github.com/SaiSrujanReddyP/Srujan#readme",
+  "dependencies": {
+    "next": "^14.2.14",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
